@@ -88,16 +88,14 @@ Explore our demo store.
 </p>
 <b>Admin Demo user:</b>
 
-Email: demoadmin@pureplantparadise.com<br/>
-Password: demo@12345
+Email: bluesky.engineer428@gmail.com<br/>
 
 <p align="left">
   <a href="https://pureplantparadise.netlify.app" class="button">Store Front</a>
 </p>
 <b>Demo user:</b>
 
-Email: demo@pureplantparadise.com<br/>
-Password: demo7890
+Email: bluesky.engineer428@gmail.com<br/>
 
 ## Support
 
